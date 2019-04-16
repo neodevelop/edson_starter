@@ -8,7 +8,7 @@ public class Hello {
   public static void main(String[] args){
     Hello object = new Hello()
     object.setName("Edson")
-    System.out.println(object.greet())
+    println(object.greet())
   }
 
 }
