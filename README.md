@@ -4,6 +4,7 @@
 
 - Autenticación con llave pública
 - Manejo del sistema operativo Linux, consultar el Mega
+- Tipos de lenaguajes: dinámicos, estáticos, scripting, compilados, interpretados
 
 ## Temas por tratar
 
@@ -21,3 +22,8 @@
 - Groovy
 - Línea de comando
 - Otros
+
+## Elementos a desarrollar
+
+- Poner un blog en github.io, recomendación es que uses https://gohugo.io
+- Desarrollar del día 1 al 5 de https://adventofcode.com/2015
