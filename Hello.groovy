@@ -1,7 +1,7 @@
 class Hello {
   String name
 
-  String greet() { return "Hello " + this.name +  " !!!" }
+  String greet() { "Hello $name !!!" }
 
   static void main(String[] args){
     Hello object = new Hello()
