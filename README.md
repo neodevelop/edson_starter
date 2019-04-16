@@ -8,6 +8,9 @@
 ## Temas por tratar
 
 - Git
+  - Revisar configuración de Git personal
+  - Cambios al repo
+  - Enviando cambios al repo
 - Groovy
 - Línea de comando
 - Otros
