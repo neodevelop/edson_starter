@@ -1,8 +1,3 @@
 // https://projecteuler.net/problem=1
 
-accum = 0
-for(int i=0; i < 1000; i++){
-  if(i%3 == 0 || i%5 == 0)
-    accum = accum + i
-}
-println accum
+println((1..999).findAll { i -> i%3 == 0 || i%5 == 0 }.sum())
