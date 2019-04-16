@@ -1,10 +1,10 @@
 class Hello {
   String name
 
-  String greet() { "Hello $name !!!" }
+  def greet() { "Hello $name !!!" }
 
-  static void main(String[] args){
-    Hello object = new Hello()
+  static def main(args){
+    def object = new Hello()
     object.setName("Edson")
     println(object.greet())
   }
