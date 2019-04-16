@@ -3,10 +3,10 @@ class Hello {
 
   def greet() { "Hello $name !!!" }
 
-  static def main(args){
+  static main(args){
     def object = new Hello()
     object.setName("Edson")
-    println(object.greet())
+    println object.greet()
   }
 
 }
