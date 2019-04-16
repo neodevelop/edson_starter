@@ -1,0 +1,7 @@
+[user]
+  name = Edson Servin
+  email = edson@ciencias.unam.mx
+[alias]
+  st = status
+  br = branch
+  co = checkout
